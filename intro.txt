@@ -2,3 +2,4 @@ Hi,
 My name is Suraj Kumar i am learning the git and git Hub 
 during that i am creation of a new repository
 named first_git_and_gitHub.
+Now i learn how set PAT (persional access token)
